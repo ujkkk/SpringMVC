@@ -30,6 +30,6 @@
     <li>username=<%=member.getUsername()%></li>
     <li>age=<%=member.getAge()%></li>
 </ul>
-<a href="/index.html">메인</a>
+<a href="/index.html">메인b</a>
 </body>
 </html>
