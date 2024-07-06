@@ -26,7 +26,7 @@ public class FrontControllerSeveletV5 extends HttpServlet {
     private List<MyHandlerAdapter> handlerAdapters = new ArrayList<>();
 
 
-    public void FrontControllerServleteV5() {
+    public FrontControllerSeveletV5() {
         initHandlerMappingMap();
         initHandlerAdapter();
     }
